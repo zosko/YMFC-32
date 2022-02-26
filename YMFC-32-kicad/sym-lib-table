@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "YAAJ_BluePill")(type "Legacy")(uri "${KIPRJMOD}/library/bluepill/YAAJ_BluePill.lib")(options "")(descr ""))
+)
