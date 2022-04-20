@@ -10,6 +10,22 @@ Try to keep the cost to a minimum
 more datails here:
 http://www.brokking.net/ymfc-32_auto_main.html
 
+## Setup Arduino
+- Search in `Boards Manager` for `Arduino SAM Boards 32bit` and install it
+- Extract file `Arduino_STM32-master.zip` into `Arduino/hardware` folder.
+- Select `STM32F103C series` from boards
+- Variant to be `64k Flash`
+- Upload method to be `Serial`
+- CPU Speed to be `72Mhz`
+
+## Testing GYRO
+NOSE UP    - positive PITCH
+NOSE DOWN  - negative PITCH
+LEFT UP    - positive ROLL
+LEFT DOWN  - negative ROLL
+NOSE RIGHT - positive YAW
+NOSE LEFT  - negative YAW
+
 ## Kicad
 
 ![View 1](images/kicad1.png)
