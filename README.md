@@ -19,12 +19,14 @@ http://www.brokking.net/ymfc-32_auto_main.html
 - CPU Speed to be `72Mhz`
 
 ## Testing GYRO
-NOSE UP    - positive PITCH
-NOSE DOWN  - negative PITCH
-LEFT UP    - positive ROLL
-LEFT DOWN  - negative ROLL
-NOSE RIGHT - positive YAW
-NOSE LEFT  - negative YAW
+Quad | Should be
+------|------
+NOSE UP|positive PITCH
+NOSE DOWN|negative PITCH
+LEFT UP|positive ROLL
+LEFT DOWN|negative ROLL
+NOSE RIGHT|positive YAW
+NOSE LEFT|negative YAW
 
 ## Kicad
 
